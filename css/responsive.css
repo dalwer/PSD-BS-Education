@@ -1,0 +1,520 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+.logo {
+    width: 50%;
+}
+.menu ul li a {
+    font-size: 15px;
+}
+.navbar-brand {
+   margin-right: 0;
+}
+/*banner section*/
+.b-content h1 {
+    font-size: 16px;
+   padding-top: 60px;
+    padding-bottom: 60px;
+}
+.c-tittle> h1 {
+    font-size: 16px;
+}
+.scroll p {
+    font-size: 14px;
+}
+.scroll img {
+    width: 3%;
+}
+/*about school section*/
+.about-school {
+    padding: 40px 0;
+}
+.c-h1 {
+    font-size: 18px;
+}
+.c-hr {
+    width: 140px;
+}
+.c-h2 {
+    font-size: 15px;
+    margin-bottom: 15px;
+}
+.about-text p {
+    font-size: 12px;
+}
+.about-text span {
+    width: 140px;
+    margin-bottom: 15px;
+}
+.discovery {
+    width: 25%;
+    margin-bottom: 15px;
+}
+/*kid education section*/
+.kid-edu {
+    padding: 40px 0;
+}
+.kid-content p {
+    font-size: 17px;
+    letter-spacing: 2px;
+}
+/*courses section*/
+.courses {
+    padding: 50px 0;
+}
+.course-tittle h1 {
+    font-size: 16px;
+}
+.card {
+    margin-bottom: 20px;
+}
+.cus-btn {
+    margin-top: 40px;
+}
+.float-left {
+   padding-left: 18px;
+}
+.float-right {
+    padding-right: 18px;
+}
+/*section moments area */
+.moments {
+    padding: 30px 0;
+}
+.mb-65 {
+    margin-bottom: 30px;
+}
+.view-more {
+    margin-top: 20px;
+}
+.mb-50{
+    margin-bottom: 50px;
+}
+/*who stand section*/
+.who-stand {
+    padding: 50px 0;
+}
+.mb-30 {
+    text-align: center;
+}
+.mt-100 {
+    margin-top: 50px;
+}
+.teacher-info .nav{
+    justify-content: center;
+}
+/*recent news*/
+.recent-news-area {
+    padding: 50px 0;
+}
+.event-h1 {
+    font-size: 20px;
+    text-align: center;
+}
+.recent-hr {
+    float: none !important;
+}
+/*.float-left {
+   float: none !important;
+}*/
+.recent-content h5 {
+    margin-top: 10px;
+}
+.event-text h5, .recent-content h5 {
+    font-size: 16px;
+    text-align: center;
+}
+/*footer section*/
+.footer-logo img {
+    margin-bottom: 10px;
+}
+.instrgrame {
+    margin-top: 10px;
+}
+.ins-h5 {
+    font-size: 18px;
+}
+.ins-hr {
+    margin-top: 10px;
+    margin-bottom: 18px;
+}
+.contact-us {
+    background-image: none;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #fff;
+}
+/*footer section*/
+footer .nav-link {
+    padding: 15px 5px;
+    font-size: 10px;
+}
+.copyright {
+     padding-top: 0px; 
+}
+footer .footer {
+    justify-content: center;
+}
+}
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+.menu ul li a {
+    display: inline-block;
+}
+.logo {
+    width: 80%;
+}
+.menu ul li a {
+    font-size: 17px;
+}
+/*banner section*/
+.b-content h1 {
+    font-size: 36px;
+   padding-top: 150px;
+    padding-bottom: 140px;
+}
+.scroll p {
+    font-size: 16px;
+}
+.scroll img {
+    width: 2%;
+}
+/*about school section*/
+.about-school {
+    padding: 50px 0;
+}
+.c-h1 {
+    font-size: 25px;
+}
+.c-hr {
+    width: 180px;
+}
+.c-h2 {
+    font-size: 20px;
+    margin-bottom: 16px;
+}
+.about-text span {
+    width: 157px;
+    margin-bottom: 18px;
+}
+.discovery {
+    width: 25%;
+    margin-bottom: 15px;
+}
+/*kid education section*/
+.kid-edu {
+    padding: 60px 0;
+}
+.kid-content p {
+    font-size: 17px;
+    letter-spacing: 2px;
+}
+/*courses section*/
+.courses {
+    padding: 70px 0;
+}
+.profile {
+    left: 445px;
+}
+.card {
+    margin-bottom: 20px;
+}
+.cus-btn {
+    margin-top: 40px;
+}
+.float-left {
+    padding-left: 35px;
+}
+.float-right {
+    padding-right: 35px;
+}
+/*moment section*/
+.moments {
+    padding: 70px 0;
+}
+/*section we did*/
+.who-stand {
+    padding: 70px 0;
+}
+.we-did {
+    padding: 70px 0;
+}
+.mb-50{
+	margin-bottom: 50px;
+}
+.mb-65 {
+    margin-bottom: 80px;
+}
+.mt-100 {
+    margin-top: 70px;
+}
+/*recent news area*/
+.recent-news-area {
+    padding: 70px 0;
+}
+.event-h1 {
+    font-size: 21px;
+}
+.event-text h5, .recent-content h5 {
+    font-size: 14px;
+    margin-top: 10px;
+}
+.event-date {
+    width: 60px;
+    height: 60px;
+}
+.event-date span {
+    font-size: 28px;
+}
+.event-date {
+    display: inline-block;
+}
+.event-text {
+    margin-left: 0px; 
+    display: inline-block;
+}
+/*contact section*/
+.contact-us {
+    background-image: none;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #fff;
+}
+.ins-h5 {
+    font-size: 20px;
+}
+/*footer section*/
+footer .footer {
+    justify-content: center;
+}
+
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+.logo {
+    width: 90%;
+}
+.menu ul li a {
+    display: inline-block;
+}	
+.user {
+    margin-left: 20px;
+}
+
+/*banner section*/
+.b-content h1 {
+    font-size: 36px;
+    padding-top: 140px;
+    padding-bottom: 150px;
+}
+.scroll p {
+    font-size: 16px;
+}
+.scroll img {
+    width: 2%;
+}
+/*about school section*/
+.about-school {
+    padding: 40px 0;
+}
+.c-h1 {
+    font-size: 26px;
+}
+.c-hr {
+    width: 200px;
+}
+.c-h2 {
+    font-size: 22px;
+    letter-spacing: 2px;
+    margin-bottom: 18px;
+}
+.about-text span {
+    width: 157px;
+    margin-bottom: 18px;
+}
+
+.about-img {
+    height: 90%;
+}
+/*kid education section*/
+.kid-edu {
+    padding: 60px 0;
+}
+.kid-content p {
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+/*courses section*/
+.courses {
+    padding: 80px 0;
+}
+.card {
+    margin-bottom: 20px;
+}
+.profile {
+    left: 270px;
+}
+.cus-btn {
+    margin-top: 40px;
+}
+.float-left {
+    padding-left: 6px;
+}
+.float-right {
+    padding-right: 6px;
+}
+/*section moments area */
+.moments {
+    padding: 50px 0;
+}
+.mb-65 {
+    margin-bottom: 50px;
+}
+.view-more {
+  	width: 60%;
+    margin: 0 auto;
+    padding-top: 40px;
+}
+/*who stand section*/
+.who-stand {
+    padding: 70px 0;
+}
+.c2-hr {
+    margin: 5px 0;
+}
+.teacher-info {
+     padding-top: 0px; 
+}
+.follow {
+    margin-top: 5px;
+}
+/*who stand*/
+.mt-100 {
+    margin-top: 75px;
+}
+.c-tittle> h1 {
+     font-size: 22px;
+}
+.teacher-info h1 {
+    font-size: 23px;
+}
+
+/*recent news*/
+.recent-news-area {
+    padding: 50px 0;
+}
+.event-date span {
+    font-size: 30px;
+}
+.event-date {
+    width: 60px;
+    height: 60px;
+}
+.event-text h5, .recent-content h5 {
+    font-size: 15px;
+    letter-spacing: 0px; 
+}
+.recent-content p {
+    font-size: 11px;
+}
+.contact-us {
+    padding-top: 165px;
+    padding-bottom: 35px;
+}
+.instrgrame {
+    margin-top: 10px;
+}
+.footer-logo img {
+    margin-bottom: 20px;
+}
+.ins-h5 {
+    font-size: 22px;
+    letter-spacing: 0px;
+}
+.ins-hr {
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+footer .footer {
+    justify-content: center;
+}
+.copyright {
+    padding-top: 3px;
+}
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+.menu ul li a {
+    font-size: 17px;
+    padding: 0px 15px !important;
+}
+/*banner section*/
+.b-content h1 {
+    font-size: 40px;
+    padding-top: 260px;
+    padding-bottom: 150px;
+}
+.scroll p {
+    font-size: 16px;
+}
+.scroll img {
+    width: 2%;
+}
+/*about school section*/
+.c-h2 {
+    margin-bottom: 20px;
+}
+.discovery {
+    width: 40%;
+}
+.about-text span {
+    margin-bottom: 20px;
+}
+/*kid education section*/
+.kid-content p {
+    letter-spacing: 5px;
+}
+/*courses section*/
+.profile {
+    left: 155px;
+}
+/*who did section*/
+.c2-hr {
+    margin: 5px 0;
+}
+.teacher-info {
+     padding-top: 0px; 
+}
+.follow {
+    margin-top: 5px;
+}
+/*contact section*/
+.ins-h5 {
+    font-size: 19px;
+}
+.footer-logo p {
+    font-size: 13px;
+}
+.contact-info p {
+    font-size: 13px;
+}
+.contact-info p span{
+  margin-left: 6px !important;
+}
+.ins-p{font-size: 12px;}
+/*footer section*/
+footer .nav-link {
+    padding: 20px 7px;
+}
+.copyright p {
+    font-size: 13px;
+}
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+    
+}
+
+}
